@@ -1,0 +1,9 @@
+sys-process/htop lm-sensors
+app-admin/doas pam persist
+sys-firmware/intel-microcode split-ucode initramfs
+x11-drivers/nvidia-drivers X driver static-libs tools wayland
+sys-auth/seatd server builtin
+dev-libs/weston X desktop drm gles2 jpeg resize-optimization seatd suid wayland-compositor webp xwayland
+app-misc/tmux vim-syntax
+sys-process/fcron mta pam readline system-crontab
+app-admin/keepassxc X autotype browser network keeshare

@@ -1,0 +1,8 @@
+/home/khronos/dotfiles
+file    /home/khronos/.dotlist      .dotlist
+file    /home/khronos/.vimrc        .vimrc
+dir     /etc/portage/package.use/   portage/package.use/ 
+file    /etc/portage/make.conf      portage/make.conf
+dir     /home/khronos/bin/          bin/
+file    /etc/doas.conf              doas.conf
+file    /home/khronos/.bashrc       .bashrc
