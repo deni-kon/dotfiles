@@ -7,3 +7,5 @@ dev-libs/weston X desktop drm gles2 jpeg resize-optimization seatd suid wayland-
 app-misc/tmux vim-syntax
 sys-process/fcron mta pam readline system-crontab
 app-admin/keepassxc X autotype browser network keeshare
+virtual/rust rustfmt
+dev-lang/rust clippy cpu_flags_x86_sse2 rust-analyzer rust-src rustfmt
