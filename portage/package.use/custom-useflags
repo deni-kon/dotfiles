@@ -9,3 +9,6 @@ sys-process/fcron mta pam readline system-crontab
 app-admin/keepassxc X autotype browser network keeshare
 virtual/rust rustfmt
 dev-lang/rust clippy cpu_flags_x86_sse2 rust-analyzer rust-src rustfmt
+sys-kernel/gentoo-sources
+www-client/links X bzip2 ssl zlib
+app-laptop/laptop-mode-tools acpi apm
